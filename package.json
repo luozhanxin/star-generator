@@ -1,0 +1,29 @@
+{
+  "name": "star-generator",
+  "version": "1.0.0",
+  "description": "star generator",
+  "main": "bin/star.js",
+  "bin": {
+    "star": "./bin/star.js"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "start": "npm publish ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luozhanxin/star-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luozhanxin/star-generator/issues"
+  },
+  "homepage": "https://github.com/luozhanxin/star-generator#readme",
+  "engines": {
+    "node": ">= 4.0"
+  }
+}
